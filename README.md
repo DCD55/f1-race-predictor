@@ -43,9 +43,11 @@ An interactive web application built with **Streamlit**, **Python**, and **Machi
 ---
 
 ## 📚 Data Sources & Acknowledgments
-* **FastF1:** Telemetry, session results, and timing data are powered by the FastF1 Python library (https://github.com/theOehrly/FastF1), which accesses official data feeds.
-* **Ergast Developer API:** Historical race results, standings, and circuit data provided by the Ergast Motor Racing API (http://ergast.com/mrd/).
+* **Inspiration:** Inspired by and built upon concepts from the [2025 F1 Predictions project](https://github.com/mar-antaya/2025_f1_predictions) by Mar Antaya.
+* **FastF1:** Telemetry, session results, and timing data are powered by the [FastF1 Python library](https://github.com/theOehrly/FastF1), which accesses official data feeds.
+* **Ergast Developer API:** Historical race results, standings, and circuit data provided by the [Ergast Motor Racing API](http://ergast.com/mrd/).
 * **Visual Assets:** Official team logos, car renders, and circuit layouts utilized for educational and analytical visualization purposes.
+
 
 ---
 
