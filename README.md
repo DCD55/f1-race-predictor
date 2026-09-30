@@ -8,12 +8,10 @@ An interactive web application built with **Streamlit**, **Python**, and **Machi
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
+https://github.com/user-attachments/assets/55c50d23-cfa5-4685-b74b-5c6e4d3d8ca4
 
-[  <video src="https://github.com/user-attachments/assets/55c50d23-cfa5-4685-b74b-5c6e4d3d8ca4" width="100%" controls></video>
-</p>
-](https://github.com/user-attachments/assets/55c50d23-cfa5-4685-b74b-5c6e4d3d8ca4
-)
 ---
+
 
 ## ✨ Key Features
 - **ML Predictive Models:** Trained pipelines evaluating driver recent form, starting grid positions, and constructor performance.
