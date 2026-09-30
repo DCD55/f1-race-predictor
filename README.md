@@ -8,9 +8,8 @@ An interactive web application built with **Streamlit**, **Python**, and **Machi
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
-<img width="1456" height="752" alt="Screenshot 2026-09-29 at 11 52 06 p m" src="https://github.com/user-attachments/assets/8121eef7-e367-4e8d-b92c-0d1c29660b02" />
-
 <img width="1456" height="403" alt="Screenshot 2026-09-29 at 11 52 23 p m" src="https://github.com/user-attachments/assets/f7b497db-e76a-4462-8cd8-37003f593923" />
+<img width="1456" height="752" alt="Screenshot 2026-09-29 at 11 52 06 p m" src="https://github.com/user-attachments/assets/8121eef7-e367-4e8d-b92c-0d1c29660b02" />
 
 ---
 
