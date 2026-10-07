@@ -5,4 +5,5 @@ lightgbm
 xgboost
 fastf1
 matplotlib
-
+streamlit
+plotly
