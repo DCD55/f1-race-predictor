@@ -60,3 +60,12 @@ An interactive web application built with **Streamlit**, **Python**, and **Machi
 
 ## 👨‍💻 Author
 Developed by DCD55.
+
+
+---
+
+## 📄 Acknowledgements & Credits
+
+- **Dataset & Telemetry:** Historical Formula 1 data sourced from [Ergast F1 API](https://ergast.com/mrd/) / [Kaggle F1 Dataset](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) by Rohan Rao.
+- **Telemetry Ingestion:** FastF1 library for detailed timing and track data integration.
+- **Reference & Inspiration:** Gradient boosting pipeline structure inspired by [mar-antaya/2025_f1_predictions](https://github.com/mar-antaya/2025_f1_predictions).
