@@ -2,7 +2,7 @@
 
 An interactive web application built with **Streamlit**, **Python**, and **Machine Learning** that analyzes historical telemetry, qualifying results, and driver performance to predict Grand Prix outcomes (Win and Podium probabilities).
 
-🚀 **Live Demo:** [f1-race-predictor.streamlit.app](https://f1-race-predictor.streamlit.app)
+🚀 **Live Demo:** [f1-race-predictor.streamlit.app](https://f1-race-predictor-wbctsfus9rjacqw4tdkbma.streamlit.app)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
